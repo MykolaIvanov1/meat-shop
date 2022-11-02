@@ -1,0 +1,13 @@
+body {
+  font-family: $title, $text;
+  min-width: 320px;
+}
+
+h1,
+h2,
+h3,
+ul,
+p {
+  margin: 0;
+  padding: 0;
+}
